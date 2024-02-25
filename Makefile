@@ -1,4 +1,4 @@
-CC	= gcc -g
+CC	= gcc
 MINILIBX	= libs/minilibx/libmlx.a
 PRINTF		= libs/ft_printf/libftprintf.a
 GNL			= libs/get_next_line/gnl.a
